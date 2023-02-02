@@ -13,3 +13,10 @@ cars.remove("Volvo")
 
 print(cars)
 
+
+//
+cars = ["Ford", "Volvo", "BMW"]
+
+x = cars[0]
+
+print(x)
