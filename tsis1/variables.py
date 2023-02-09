@@ -32,3 +32,8 @@ x, y, z = fruits
 print(x)
 print(y)
 print(z)
+
+#illegal
+2myvar = "John"
+my-var = "John"
+my var = "John"
