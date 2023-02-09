@@ -6,3 +6,9 @@ print(set1)
 print(set2)
 print(set3)
 
+//
+thisset = {"apple", "banana", "cherry"}
+
+thisset.add("orange")
+
+print(thisset)
